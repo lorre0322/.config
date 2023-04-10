@@ -1,0 +1,64 @@
+/*******************************************************************************
+ * THEME LESLIE FOR ROFI 
+ * Ahtuor: Lorre_0322
+ * CreateAt: 2022-11-28
+ *******************************************************************************/
+window {
+  location: center;
+  width: 480;
+  padding: 25px;
+  border-radius: 20px;
+  text-color: white;
+  background-color: rgba(46,52,64,0.95);
+}
+mainbox {
+  padding: 12px;
+}
+inputbar {
+  border-radius: 10px;
+  spacing: 8px;
+  children: [ icon-keyboard, entry];
+}
+icon-keyboard {
+  expand: false;
+  padding:0px 10px 0 8px;
+  filename: "keyboard";
+}
+entry {
+  placeholder: "Search";
+  text-color: #e5e9f0;
+  placeholder-color: #e5e9f0;
+}
+listview {
+  background-color: transparent;
+  margin: 12px 0 0;
+  lines: 5;
+  columns: 1;
+  fixed-height: false;
+}
+element {
+  padding: 8px 16px;
+  margin: 0 -10px 0 0;
+  background-color: transparent;
+}
+/* 单行 */
+element.normal.normal{
+  background-color: transparent;
+}
+/* 双行 */
+element.alternate.normal{
+  background-color: transparent;
+}
+element.selected.normal{
+  background-color: #434c5e;
+}
+element-icon {
+  size: 2em;
+  vertical-align: 0.5;
+}
+element-text {
+  text-color: #eeeeee;
+}
+scrollbar{
+  handle-color: #d8dee9;
+}

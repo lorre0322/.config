@@ -1,0 +1,40 @@
+sw_volume: 79
+audio_device_state:1:my_fifo
+audio_device_state:1:My Pulse Output
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Kenny Rankin - Inside (Live).mp3
+1:Haruka Nakamura, Nujabes - Lamp feat. Nujabes.mp3
+2:Nujabes - Another Reflection.mp3
+3:Nujabes - Spiral.mp3
+4:Nujabes - Counting Stars.mp3
+5:Nujabes - Luv (sic).mp3
+6:Nujabes - Luv (sic) pt2.mp3
+7:Nujabes, Shing02 - Luv (sic.) pt3.mp3
+8:Nujabes, Shing02 - Luv (sic) pt4 (feat. Shing02).mp3
+9:Nujabes, Shing02 - Luv (sic) pt5 (feat. Shing02).mp3
+10:Nujabes - Luv (sic) pt2 Acoustica.mp3
+11:Nujabes - Luv (sic) pt5 Jumpster Remix.mp3
+12:Nujabes - Luv (sic) pt6 Uyama Hiroto Remix.mp3
+13:Nujabes, Cise Starr - Lady Brown.mp3
+14:Nujabes, Shing02 - F.I.L.O..mp3
+15:Nujabes - Reflection Eternal.mp3
+16:Nujabes - Horizon.mp3
+17:Nujabes - sanctuary ship.mp3
+18:Nujabes - Aruarian Dance.mp3
+19:MINMI - 四季ノ呗.mp3
+20:Nujabes - tsurugi no mai.mp3
+21:Ldddc - Shall We Dance.mp3
+22:After 7 - Truly Something Special.mp3
+23:Bôa - Duvet.mp3
+24:Rappers Against Racism - Only You.mp3
+25:Nujabes - The Final View.mp3
+playlist_end
